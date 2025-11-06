@@ -1,0 +1,4 @@
+pandas
+xlsxwriter
+pillow; python_version >= "3.8"
+pytesseract; python_version >= "3.8"
